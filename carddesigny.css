@@ -92,7 +92,7 @@ background-color: rgb(248, 125, 145);
 .felicidade {
 
 background-color: rgba(245, 245, 146, 0.842);
-text-align: center;
+
 }
 
 .furia {
@@ -161,25 +161,32 @@ background-color: blueviolet;
 .parcimoniaimg:hover {
     transform: scale(1.5);
 }
-.felizimg {
+.alegriaimg {
     transition: transform 0.2s ease-in-out;
 }
 
-.felizaimg:hover {
+.alegriaimg:hover {
     transform: scale(1.5);
 }
-.parcimoniaimg {
+.raivaimg {
     transition: transform 0.2s ease-in-out;
 }
 
-.parcimoniaimg:hover {
+.raivaimg:hover {
     transform: scale(1.5);
 }
-.parcimoniaimg {
+.tristezaimg {
     transition: transform 0.2s ease-in-out;
 }
 
-.parcimoniaimg:hover {
+.tristezaimg:hover {
     transform: scale(1.5);
 }
 
+.vazioimg: {
+ transition: transform 0.s ease-in-out;
+}
+
+.vazioimg {
+ transform: scale(1.5);
+}
