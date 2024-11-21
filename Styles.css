@@ -1,0 +1,85 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.imagem {
+
+border-radius: 700px;
+
+}
+
+
+
+main {
+
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+header {
+
+
+    background-color: rgb(169, 83, 250);
+    text-align: center;
+    height: 100px;
+    color: rgb(243, 136, 59);
+    padding-top: 25px;
+
+}
+
+body h2 {
+
+    color: rgb(250, 139, 60);
+
+}
+
+.sobre {
+
+    border: solid 1px blue;
+    background-color: rgb(155, 112, 255);
+    margin: 10px;
+    text-align: center;
+}
+
+.projetos {
+    /* padding serve para enxergar melhor as coisas (usar quando duvidar de algo) */
+    padding: 10px; 
+    border: solid 1px blue;
+    background-color: rgb(184, 168, 255);
+    margin: 30px;
+}
+
+.projeto1 {
+    margin: 20px;
+    border: solid 1px rgb(84, 84, 243);
+    background-color: azure;
+    color: rgb(132, 0, 255);
+}
+
+.projeto2 {
+    margin: 20px;
+    border: solid 1px rgb(73, 73, 255);
+    background-color: azure;
+    color: rgb(132, 0, 255);
+}
+
+.projeto3 {
+    margin: 20px;
+    border: solid 1px rgb(89, 89, 255);
+    background-color: azure;
+    color: rgb(132, 0, 255);
+}
+
+.imagem {
+    transition: transform 0.5s ease;  
+  }
+ 
+img:hover {
+    transform: rotate(360deg);
+  }
+
+
