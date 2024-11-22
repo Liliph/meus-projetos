@@ -187,6 +187,6 @@ background-color: blueviolet;
  transition: transform 0.2s ease-in-out;
 }
 
-.vazioimg {
+.vazioimg:hover {
  transform: scale(1.5);
 }
