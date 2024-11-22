@@ -60,20 +60,6 @@ body h2 {
     color: rgb(132, 0, 255);
 }
 
-.projeto2 {
-    margin: 20px;
-    border: solid 1px rgb(73, 73, 255);
-    background-color: azure;
-    color: rgb(132, 0, 255);
-}
-
-.projeto3 {
-    margin: 20px;
-    border: solid 1px rgb(89, 89, 255);
-    background-color: azure;
-    color: rgb(132, 0, 255);
-}
-
 .imagem {
     transition: transform 0.5s ease;  
   }
